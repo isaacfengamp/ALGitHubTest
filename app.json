@@ -1,0 +1,28 @@
+{
+  "id": "0241ebd3-da46-426f-ba45-d48219bb577a",
+  "name": "trialsGit",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
